@@ -10,4 +10,5 @@
     * [设置文件模板](child/fea/template.md)
     * [设置提交截止日期](child/fea/ddl.md)
     * [设置提交人员名单](child/fea/people.md)
+* [文件管理](file/README.md)
 
